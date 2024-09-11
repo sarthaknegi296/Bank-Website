@@ -1,5 +1,9 @@
 # Bank-Website
+
 Built a responsive website with React.js and Tailwind.
+
+![bank](https://github.com/user-attachments/assets/4c9cbf77-d4ee-4473-a1bf-5d484ba15494)
+
 
 Website Link :- https://bank-website-eight.vercel.app/
 
